@@ -1,0 +1,21 @@
+.container{
+    background-color: lightgreen;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.input{
+    padding: 10px;
+    border-radius: 10px;
+}
+.add{
+    padding: 10px;
+    background-color: chartreuse; border-radius: 10px;
+    margin-left: 10px;
+}
+.delete{
+    background-color: red;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
